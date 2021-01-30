@@ -10,9 +10,8 @@ No particular code style. But I do follow indentation code style.
 
  
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/70477671/102744159-1d41bb80-4394-11eb-9bca-8dfb91f6df9e.png" width="700" height="490">
-<img src="https://user-images.githubusercontent.com/70477671/102744167-203cac00-4394-11eb-9bf4-d6c8c433a788.png" width="700" height="490">
-<img src="https://user-images.githubusercontent.com/70477671/102744170-216dd900-4394-11eb-92f2-a021970a6253.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/106349394-8b20c180-6308-11eb-87dd-d4c11fb56e0c.png" width="700" height="490">
+<img src="https://user-images.githubusercontent.com/70477671/106349396-8c51ee80-6308-11eb-9b90-f0985adce3df.png" width="700" height="490">
 
 
 
