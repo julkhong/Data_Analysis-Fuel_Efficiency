@@ -16,7 +16,7 @@ No particular code style. But I do follow indentation code style.
 
 
 ## Tech/framework used
-No tech used for this case. Yet Python and R are useful when it comes to data analysis. Framework wise, I use Jupyter Notebook for Python and R Studio for R.
+Python and R are useful when it comes to data analysis. Framework wise, I use Jupyter Notebook for Python and R Studio for R.
 
 
 ## Features
